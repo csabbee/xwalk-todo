@@ -1,0 +1,14 @@
+{
+  "name": "simple",
+  "xwalk_package_id": "com.app.simple",
+  "xwalk_version": "0.0.1",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "icon.ico",
+      "sizes": "96x96",
+      "type": "image/vnd.microsoft.icon",
+      "density": "4.0"
+    }
+  ]
+}
