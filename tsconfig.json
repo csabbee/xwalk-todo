@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6",
+        "noImplicitAny": false,
+        "outDir": "built",
+        "outFile": "todo.js",
+        "rootDir": "app",
+        "sourceMap": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "experimentalAsyncFunctions": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
