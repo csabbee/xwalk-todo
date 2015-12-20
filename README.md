@@ -19,11 +19,11 @@ unzip and put the folder on your PATH.
 python -m http.server 8000;
 ```
 
-    xwalk http://localhost:8080
+    xwalk http://localhost:8000
 
 To enable debugging remotely:
 
-    xwalk http://localhost:8080 --remote-debugging-port=9222
+    xwalk http://localhost:8000 --remote-debugging-port=9222
 
 Then navigate to the the url [http://localhost:9222](http://localhost:9222) in Chrome.
 
